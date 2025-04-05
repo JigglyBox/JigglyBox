@@ -54,10 +54,10 @@ Welcome to my GitHub profile! I'm a passionate and hands-on developer with a str
 
 ## 🔖 Fun Facts
 
-- 🦒 Giraffe person and coffee lover
-- 🎨 Loves dabbling in UI design
-- 🧩 Can spend hours perfecting log output formatting
-- 🧼 Obsessive about clean code and expressive naming
+- 🦒 Giraffes are my spirit animal — tall, calm, and slightly awkward in the best way.
+- 🎨 I love crafting clean, intuitive UIs — for players and developers alike.
+- 🎮 Game design to me is storytelling — my robot doesn’t shoot first; it delivers hope.
+- 🪄 I believe good UI/UX isn't just for players — dev tools should feel magical too.
 
 ---
 
